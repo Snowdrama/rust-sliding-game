@@ -1,0 +1,8 @@
+[package]
+name = "sliding_glitch_game"
+version = "0.1.0"
+authors = ["Snowdrama <SnowdramaGames@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bevy = "0.3.0"
